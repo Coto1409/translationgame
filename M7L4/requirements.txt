@@ -1,0 +1,5 @@
+sounddevice==0.5.5
+scipy==1.17.0
+numpy==1.26.4
+SpeechRecognition==3.14.5
+googletrans==4.0.0rc1
